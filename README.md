@@ -101,18 +101,7 @@ Ask ChatGPT for **“Everything for \<platform\>”** to get a consolidated mess
 - 3× **Known Issues**
 - 3× **Must-Know**
 - 1× **Code Challenge**
-
----
-
-## Release Notes Intro & Snippet
-
-**Use this for your repo’s Release Notes (top of each release):**
-
-**Intro (paste into Releases):**
-> DevGuideGPT delivers a production-ready prompt that transforms ChatGPT into a cross-platform developer assistant for iOS, Android, React/React Native, and Smart TV platforms (Tizen/webOS/Vidaa). Each release refines the assistant’s structure, sourcing fidelity, and developer ergonomics, ensuring you get three concise, high-value items per category (except a single Code Challenge) with versions, rationale, how-to steps, references, and minimal runnable code.
-
-**Then include the same “The Prompt” block from the README** so users can copy it directly from the Release page.
-
+  
 ---
 
 ## Quality, Sourcing & Freshness
